@@ -6,7 +6,6 @@ https://trello.com/b/YMlRsPnY
 
 Controls:
 WASD - Movement
-
 Left Click - Click to target (targets currently green)
 Right Click - Control Camera
 C - Lock the camera to a target
